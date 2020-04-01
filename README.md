@@ -28,4 +28,4 @@ Additions and/or modifications may be requested via pull request.
 
 ## Development
 
-[`makefile`](https://github.com/cull-email/orgs/blob/master/makefile) codifies directives for building, testing, linting and other development oriented tasks.
+[`makefile`](https://github.com/cull-email/orgs/blob/master/makefile) codifies directives for building and other development oriented tasks.

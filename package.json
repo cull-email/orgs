@@ -1,7 +1,7 @@
 {
   "name": "@cull/orgs",
-  "version": "0.0.1",
-  "description": "A public database of organizations and senders",
+  "version": "0.0.2",
+  "description": "A public database of organizations and senders.",
   "scripts": {
     "build": "make build",
     "clean": "make clean"
@@ -17,9 +17,9 @@
   "author": "Jon Adams <jon@kuokoa.studio>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cull-email/org/issues"
+    "url": "https://github.com/cull-email/orgs/issues"
   },
-  "homepage": "https://github.com/cull-email/org#readme",
+  "homepage": "https://github.com/cull-email/orgs#readme",
   "devDependencies": {
     "@cull/schema": "0.0.2",
     "@types/node": "^13.9.8",
