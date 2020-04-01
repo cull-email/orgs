@@ -1,0 +1,9 @@
+{
+  "id": "69d6ba74-31ae-4338-b23a-a488e81ac762",
+  "domains": ["github.com"],
+  "url": "https://github.com",
+  "name": "GitHub",
+  "description": "GitHub is where people build software. More than 40 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+  "image": "https://github.githubassets.com/favicons/favicon.svg",
+  "tags": ["software", "utilities"]
+}

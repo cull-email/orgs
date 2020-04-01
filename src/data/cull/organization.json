@@ -1,0 +1,9 @@
+{
+  "id": "09a4cbc3-fbc1-4394-b484-265491f49f7c",
+  "domains": ["cull.email"],
+  "url": "https://cull.email",
+  "name": "Cull",
+  "description": "Your email.",
+  "image": "https://cull.email/icon.svg",
+  "tags": ["software", "utilities"]
+}

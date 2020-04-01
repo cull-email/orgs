@@ -1,0 +1,9 @@
+{
+  "id": "69d6ba74-31ae-4338-b23a-a488e81ac762",
+  "domains": ["npmjs.com"],
+  "url": "https://npmjs.com",
+  "name": "npm",
+  "description": "build amazing things",
+  "image": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png",
+  "tags": ["software", "utilities", "javascript"]
+}
